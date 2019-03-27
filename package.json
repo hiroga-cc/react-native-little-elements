@@ -1,0 +1,19 @@
+{
+  "name": "@hiroga/react-native-little-elements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiroga-cc/react-native-little-elements.git"
+  },
+  "author": "@hiroga_cc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiroga-cc/react-native-little-elements/issues"
+  },
+  "homepage": "https://github.com/hiroga-cc/react-native-little-elements#readme"
+}
