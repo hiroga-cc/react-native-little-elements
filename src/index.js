@@ -1,6 +1,5 @@
 export * from "./Anchor"
 export * from "./Center"
-export * from "./Container"
 export * from "./Grid"
 export * from "./Hello"
 export * from "./ImageButton"
