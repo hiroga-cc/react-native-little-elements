@@ -9,4 +9,4 @@ git commit -m "[bot] Update app version!"
 git push origin master
 
 # push to npm
-npm publihs --access public
+npm publish --access public
